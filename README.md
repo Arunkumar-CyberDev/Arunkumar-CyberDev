@@ -14,9 +14,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href="https://github.com/Arunkumar-CyberDev/Binary-Search-"></a></li>
+<li><a target="_blank" href="https://github.com/Arunkumar-CyberDev/steganography_image-to-image"></a></li>
+<li><a target="_blank" href="https://github.com/Arunkumar-CyberDev/Hash-tool"></a></li>
 <li><a target="_blank" href=""></a></li>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arunkumar-CyberDev&show_icons=true&locale=en&layout=compact" alt="Arunkumar-CyberDev" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arunkumar-CyberDev" alt="Arunkumar-CyberDev" /></a></p>
